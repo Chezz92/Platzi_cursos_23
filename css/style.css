@@ -1,8 +1,18 @@
+p{
+    background-color:aqua; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration-color: black;
+    text-shadow: none;
+    text-transform: capitalize;
+
+}
 body
 {
     text-align: center;
     font-family: "Arial";
     background-color: greenyellow;
     text-decoration-color: black;
-    
+    text-align: left;
+
 }
