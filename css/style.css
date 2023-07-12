@@ -1,16 +1,17 @@
 p{
-    background-color:aqua; 
+    background-color:rgb(214, 233, 233); 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     text-decoration-color: black;
     text-shadow: none;
     text-transform: capitalize;
+    text
 
 }
 body
 {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Courier";
     background-color: greenyellow;
     text-decoration-color: black;
     text-align: left;
